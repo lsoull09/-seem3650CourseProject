@@ -1,1 +1,1 @@
-# seem3650CourseProject
+Welcome to the "seem3650CourseProject" repository! This is a Project from seem3650. The aim of this project is to find out if the average wind speed on Lamma Island is suitable for wind power development. The data is provided by Hong Kong Observatory(https://data.gov.hk/en-data/dataset/hk-hko-rss-daily-mean-wind-speed/resource/568ae34c-dc0c-4052-9447-92f0da36c538). daily_LAM_WSPD_ALL.xlsx is an excel file containing the data and some calculations. SEEM3650Course Project Report.pdf shows the full report.
